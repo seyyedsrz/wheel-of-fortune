@@ -1,11 +1,5 @@
 # 🎯 Spin Wheel - A React Mini Game  
 
-<div align="center">
-  <img src="demo.gif" alt="Spin Wheel Demo" width="600" />
-</div>
-
----
-
 ## 📚 Introduction  
 **Spin Wheel** is a dynamic and fun mini-game built with **React** and **TypeScript**.  
 Users can spin the wheel and let it randomly select a winner from predefined options.  
